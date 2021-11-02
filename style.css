@@ -23,14 +23,13 @@ main {
 
 #grid {
     height: 800px;
-    width: 1000px;
+    width: 900px;
     background-color: white;
 }
 
 .square {
     display: flex;
     float: left;
-    border: 1px solid black;
     cursor: pointer;
     align-items: center;
     justify-content: center;
