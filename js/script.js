@@ -10,10 +10,10 @@ const container = document.getElementById("container");
 let numeroUtente = (prompt('inserisci la difficolta con un numero da 1 a 3'));
 
 // creo un ciclo for per la difficolta' 1
-for (let i = 0; i < 100; i++){
-    if (numeroUtente == 1){
-        
-    }
+if (numeroUtente == 1){
+    for (let i = 0; i < 100; i++){
+}
+
 }
 
 
