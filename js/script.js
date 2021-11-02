@@ -4,4 +4,16 @@
 // con difficoltà 3 => tra 1 e 49
 // Quando l’utente clicca su ogni cella, la cella cliccata si colora di azzurro.
 
+const container = document.getElementById("container");
+
+// chiedo all'utente la difficolta
+let numeroUtente = (prompt('inserisci la difficolta con un numero da 1 a 3'));
+
+// creo un ciclo for per la difficolta' 1
+for (let i = 0; i < 100; i++){
+    if (numeroUtente == 1){
+        
+    }
+}
+
 
